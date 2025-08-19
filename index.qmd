@@ -1,23 +1,19 @@
 ---
 title: ""
+editor: source
 ---
 
-:::{.column-screen}
-![](img/typewriter3.jpg)
-<!-- <div class="banner-text"> -->
-<!-- # Andrew Zieffler -->
+::: column-screen
+![](img/typewriter3.jpg) <!-- <div class="banner-text"> --> <!-- # Andrew Zieffler -->
 
 <!-- Academic. Data lover. Statistics enthusiast. -->
+
 <!-- </div> -->
 :::
 
-
-<center>
-![](img/andy.png)
-</center>
+<center>![](img/andy.png)</center>
 
 <br />
-
 
 ### About Me
 
@@ -25,50 +21,52 @@ I am a Professor of Teaching and researcher in the [Quantitative Methods in Educ
 
 My scholarship addresses statistics education writ large, and has recently been focused on teacher education and also on how data science is transforming the statistics curriculum. You can find out more about some of this work at the LaSER website. I also work on curriculum design projects.
 
-I have authored/co-authored several papers and book chapters related to statistics education, and have been a co-PI on many NSF-funded statistics education research projects. Additionally, I have co-authored two textbooks that serve as an introduction to modern statistical and computational methods for students in the educational and behavioral sciences. 
+I have authored/co-authored several papers and book chapters related to statistics education, and have been a co-PI on many NSF-funded statistics education research projects. Additionally, I have co-authored two textbooks that serve as an introduction to modern statistical and computational methods for students in the educational and behavioral sciences.
 
 I have served as an AE for the [Journal of Statistics Education](https://www.tandfonline.com/journals/ujse20) and co-editor of the journal [Technology Innovations in Statistics Education](http://escholarship.org/uc/uclastat_cts_tise). In 2018, I was part of a study group formed by the National Academies of Sciences, Engineering, and Medicine that authored the report, [Data Science for Undergraduates: Opportunities and Options](https://www.nap.edu/catalog/25104/data-science-for-undergraduates-opportunities-and-option).
 
-
 <br />
 
----
+------------------------------------------------------------------------
 
-<center>
-<span style="text-align: center;display: block;">**Check out our research lab!**</span><br />
-<img src="img/laser-lab.png" width="10%" style="vertical-align: middle;">
-<span style="">[Laboratory for Advancing Statistics Education Research](https://laser-umn.github.io/).</span>
-</center>
+<center>[**Check out our research lab!**]{style="text-align: center;display: block;"}<br /> <img src="img/laser-lab.png" width="10%" style="vertical-align: middle;"/> [[Laboratory for Advancing Statistics Education Research](https://laser-umn.github.io/).]{style=""}</center>
 
----
-
-
+------------------------------------------------------------------------
 
 <br />
 
 ### Education
 
-
 <ul class="fa-ul">
+
 <li>
-  <span class="fa-li">{{< fa graduation-cap >}}</span>PhD, Educational Psychology, Quantitative Methods in Education, 2006
-  <p style="color: rgba(0,0,0,0.6);">University of Minnesota</p>
+
+[{{< fa graduation-cap >}}]{.fa-li}PhD, Educational Psychology, Quantitative Methods in Education, 2006
+
+<p style="color: rgba(0,0,0,0.6);">
+
+University of Minnesota
+
+</p>
+
 </li>
+
 <li>
-  <span class="fa-li">{{< fa graduation-cap >}}</span>BS, Mathematics Education, 1998
-  <p style="color: rgba(0,0,0,0.6);">St. Cloud State University</p>
+
+[{{< fa graduation-cap >}}]{.fa-li}BS, Mathematics Education, 1998
+
+<p style="color: rgba(0,0,0,0.6);">
+
+St. Cloud State University
+
+</p>
+
 </li>
+
 </ul>
-
-
 
 <!-- ### Curriculum Vitae -->
 
-
 <!-- [{{< ai cv >}}](https://www.datadreaming.org/files/zieffler-cv-2022-10-31.pdf) -->
+
 <!-- <span style="color: rgba(0,0,0,0.6); font-size:13px;"> [<i>Updated 2022-10-31</i>]</span> -->
-
-
-
-
-

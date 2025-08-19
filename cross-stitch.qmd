@@ -2,6 +2,7 @@
 title: ""
 format: html
 lightbox: true
+editor: source
 ---
 
 
@@ -22,6 +23,8 @@ lightbox: true
 In my spare time, I really enjoy cross-stitching. Here are some of the things I have cross-stitched in the last several years.
 
 ::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));grid-gap: 1em;"}
+
+![](img/cross-stitch-noahs-ark.jpg){group="my-gallery"}
 
 ![](img/cross-stitch-haunted-house.jpg){group="my-gallery"}
 

@@ -1,0 +1,53 @@
+---
+title: Syllabus Creation
+author: Andy
+date: '2025-08-18'
+slug: []
+categories:
+  - Teaching
+subtitle: ''
+description: ''
+image: ''
+showtoc: false
+---
+
+
+Many years ago I wrote up a small set of suggestions related to the aesthetics of syllabus creation. Since then, I also published ["Zhuzhing Up Your Syllabus" in the StatTLC blog](https://stattlc.com/2024/09/06/zhuzhing-up-your-syllabus/). Since that time, the new federal accessibility law has made some of this a bit tougher to implement. But here is that initial set of suggestions:
+
+
+<br />
+
+
+## Syllabus Creation
+
+You need to take the information/text from the Google Doc and include it in your syllabus. Do NOT just copy-and-paste this over and call it a day. Your syllabus is a student's first impression of your course, and if it looks dull that will not inspire anyone’s confidence. There are two things that you can do to exponentially improve your syllabus: Personalize and prettify your syllabus.
+
+Here are some tips as you design and put together your syllabus:
+
+- **Choose a small set of fonts that look good together, and be consistent about how you use them.** Setting everything in Times New Roman (boring) or Calibri (gross) is one way to have students never read your syllabus. Variation in font not only helps the aesthetic of your syllabus, but it also can help students navigate the information therein. I typically use 3–4 fonts in my syllabi: one title font, one headings/subheading font, and one body font. (Sometimes I also have a boxed/pull-out text font.) More than 3–4 fonts begins to look ragtag, so be careful. Some tips:
+  + The majority of your text will be the body font, so choose something readable. I prefer serifed fonts for this, but a readable sans-serifed font would also work.
+  + Heading/subheading fonts can be fancier—while you might not want to read an entire syllabus set in Harry Potter Luminos, headings in this font might add a touch of whimsy.
+  + Google fonts [(https://fonts.google.com/](https://fonts.google.com/)) has many free fonts you can download and use. It also will show you how different body and heading fonts will pair.
+
+- **Pick a color palette for your syllabus.** Although body text is probably best set in black (assuming the background of your syllabus is white), consider setting the headings/subheadings in a different color. What about having some text set in a box—things you want to call attention to—and setting the background color of these boxes in some color? Maybe a bold color for your title? What color will you make web links?
+  + I use <https://coolors.co/> to choose color palettes. You can get inspiration from pre-generated palettes, or create your own. One of the neat features is that you can lock in colors you like and then generate colors that pair well with your selected colors.
+  + What looks good on the palette may not look as good when you try it on your syllabus. Some colors are difficult to read. Others just don’t “pop” as well as text. Be prepared to try a few different combinations.
+  + Be careful about choosing colors that colorblind people will have a hard time with. The coolors site will also allow you to visualize your palette under eight common types of colorblindness.
+
+- **Use size/case/alignment to differentiate text.** Font and color isn’t the only way to differentiate text. For example, I typically use the same font and color for my headings and subheadings, but I use a smaller font size for the sub-headings. You could also use different cases (e.g., Small caps, uppercase) or alignment (left vs. centered).
+
+- **Add some graphics/art to your syllabus.** Not everything needs to be text. Adding images will break-up the text and make the information in the syllabus easier to digest. (Think about children’s books!) Graphics are also a nice way to personalize your syllabus.
+  + You can find graphics quite easily, but be sure you have permission to use the graphics you choose; many are copyrighted. You might want to search for images in the “public domain”. Images licensed under the Creative Commons license are also generally useable, but you may need to include a citation. Several image sites allow you to search using these criteria (e.g., Flickr).
+  + When choosing an image, also consider your color palette. If the colors on the image clash with your palette, consider making it greyscale, black-and-white, or sepia-toned.
+  
+- **Add whitespace.** Text is easier for humans to read when whitespace is included. The most obvious whitespace in a text document is the margins. But line and paragraph spacing are also very important for readability.
+  + While 1” margins may be reasonable, play around with some different choices. For example books often have asymmetric margins to account for the binding which also is nice if students are printing the syllabus and say, adding it to a 3-ring binder.
+  + Try a little bigger linespacing to see if the text you chose reads easier. Different fonts look better and are easier to read at different linespacings. A good place to start is to set your linespacing to 1.2 times the font size.
+  + Consider space between paragraphs. This is typically set in the “before” and “after” values of your word-processing program. Again, this is a bit of trial-and-error to determine what looks good.  
+
+
+These are only guidelines, and like all guidelines, can be ignored. A syllabus is a reflection of not only the course content, but also of the instructor. Have fun! Choose fonts, images, and palettes that reflect your personality. This will take a bit of time (I spend 1–2 full days per syllabus), but is worth it. If an instructor cares enough to get the details right in their syllabus, it suggests they will take the same care in teaching the course. Don’t feel you need a perfect syllabus. Like our courses, syllabi have imperfections, despite our best efforts. But, similar to our courses, they a syllabus should get better with each iteration; some parts we like and keep in future versions, others we discard or change. Your syllabus will adapt and change as you grow and change as instructors.
+
+<br />
+
+
