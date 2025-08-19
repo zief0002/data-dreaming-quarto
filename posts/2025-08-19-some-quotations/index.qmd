@@ -1,0 +1,224 @@
+---
+title: Some Quotations I Like
+author: Andy
+date: '2025-08-18'
+slug: []
+categories:
+  - Teaching
+  - Quotations
+subtitle: ''
+description: ''
+image: ''
+showtoc: false
+---
+
+
+## Statistics, Computing, and Data Science
+
+
+> Touch data: Compute-more, Calcu-less.
+
+<br />
+
+
+> The purpose of computing is insight, not numbers
+
+<p style="text-align: right;">---Richard Hamming<br />*Numerical Methods for Scientists and Engineers*</p>
+
+
+<br />
+
+
+> We live in an age of exponential growth in knowledge, and it is increasingly futile to teach only polished theorems and proofs. We must abandon the guided tour through the art gallery of mathematics, and instead teach how to create the mathematics we need. In my opinion, there is no long-term practical alternative.
+
+<p style="text-align: right;">---Richard Hamming<br />*Calculus and Discrete Mathematics*</p>
+
+<br />
+
+
+> In both cases the computer used as a tool effectively leads to a solution, but in neither does the computational representation make the mathematics more perspicuous. ...The goal is to use computational thinking to forge ideas that are at least as ‘explicative’ as the Euclid-like constructions (and hopefully more so) but more accessible and more powerful.
+
+<p style="text-align: right;">---Seymour Papert<br />*An Exploration in the Space of Mathematics Educations*</p>
+
+<br />
+
+
+> Experience trumps statistics. 
+
+<p style="text-align: right;">---Yo-Yo Ma<br />on the podcast [*Sticky Notes: The Classical Music Podcast*](https://stickynotespodcast.libsyn.com/episode-31-yo-yo-ma)</p>
+
+<br />
+
+> Statistics does not require randomness. The three essential elements of statistics are measurement, comparison, and variation. Randomness is one way to supply variation, and it’s one way to model variation, but it’s not necessary. Nor is it necessary to have “true” randomness (of the dice-throwing or urn-sampling variety) in order to have a useful probability model...To answer your question about nonrepresentative samples, there I think it’s best to adjust for known and modeled differences between sample and population. Here the idea of random sampling is a useful start and a useful comparison point…One approach is to forget the t tests, F tests, etc. and instead frame problems as quantitative comparisons, predictions, and causal inferences (which are a form of prediction of potential outcomes). You get the conf intervals, s.e.’s, etc from a random sampling model that you recognize is an approximation.
+
+<p style="text-align: right;">---Andrew Gelman<br />*What’s the most important thing in statistics that’s not in the textbooks?*</p>
+
+<br />
+
+
+## Education
+
+
+> "Memory is the residue of thought." 
+
+<p style="text-align: right;">---Daniel T. Willingham <br />
+*Why Students Don't Like School: A Cognitive Scientist Answers Questions About How the Mind Works and What It Means for the Classroom*</p>
+
+
+<br />
+
+
+> Students taught to view their intelligence as a "muscle" that can grow with hard work and perseverance (as compared to a "fixed trait", such as eye-color) experienced academic boosts of ½ a letter grade, with the largest effects often seen for low-performing students, students of color, or females in STEM-related courses.
+
+<p style="text-align: right;">---United States Office of Science and Technology Policy</p>
+
+<br />
+
+
+> Make what you keep special rather than focusing on what you are getting rid of.
+
+<p style="text-align: right;">---Kris Gorman; Center for Educational Innovation, on curating course content</p>
+
+<br />
+
+
+> He was the indisputable champion of the Socratic method...He asked questions, digging deeper and deeper with each layer. 'We are archeologists of ideas,' he once said. There is always a deeper level, with more interesting artifacts. We must continue to dig until we are satisfied with what we have found. Then we must dig more, because we should never be satisfied.
+
+<p style="text-align: right;">---Alan Dershowitz<br />*The Advocate's Devil*</p>
+
+<br />
+
+
+> Train people well enough so they can leave. Treat them well enough so they don’t want to. 
+
+<p style="text-align: right;">---Richard Branson</p>
+
+
+<br />
+
+
+> CFO: What happens if we invest in developing our people and then they leave us?
+> CEO: What happens if we don’t, and they stay?"
+
+<p style="text-align: right;">---Trish Bertuzzi<br />*The Sales Development Playbook: Build Repeatable Pipeline and Accelerate Growth with Inside Sales*</p>
+
+
+<br />
+
+
+> If I had to design a mechanism for the express purpose of destroying a child’s natural curiosity and love of pattern-making, I couldn't possibly do as good a job as is currently being done --- I simply wouldn’t have the imagination to come up with the kind of senseless, soul-crushing ideas that constitute contemporary mathematics education.
+
+<p style="text-align: right;">---Paul Lockhart<br />*A Mathematician's Lament*</p>
+
+<br />
+
+> We are over-invested, not under-invested, in higher education. Many college graduates are taking low-skilled and low-paying jobs. The relationship between state government spending on higher education and economic growth is negative, not positive. Students are studying and learning little. Schools, including Princeton, are spending vast amounts becoming mini-luxury resorts, with fancy housing, spectacular recreational facilities and the like. At the minimum, these commercial activities should be taxed.
+
+<p style="text-align: right;">---Richard Vedder<br />[*Should Colleges and Universities Be Taxed?*](https://www.mindingthecampus.org/2013/09/08/should_colleges_and_universiti/)</p>
+
+<br />
+
+
+> In the long term, I believe we as social scientists need to move beyond the paradigm in which a single study can establish a definitive result. In addition to the procedural innovations suggested in the papers at hand, I think we have to more seriously consider the integration of new studies with the existing literature, going beyond the simple (and wrong) dichotomy in which statistically significant findings are considered as true and nonsignificant results are taken to be zero. But registration of studies seems like a useful step in any case.
+
+<p style="text-align: right;">---Andrew Gelman<br />*Preregistration of Studies and Mock Reports*</p>
+
+<br />
+
+
+## Reading
+
+
+> I absolutely demand of you and everyone I know that they be widely read in every damn field there is; in every religion and every art form and *don’t* tell me you haven't got time! There's plenty of time. You need all of these cross-references. You never know when your head is going to use this fuel, this food for its purposes.
+
+<p style="text-align: right;">---Ray Bradbury</p>
+
+<br />
+
+
+> In my experience, the world's happiest man is a young professor building bookcases, and the world's most contented couple is composed of that young professor and his wife, in love, employed, at the bottom of a depression from which it is impossible to fall further, and entering on their first year as full adults, not preparing any longer but finally into their lives.
+
+<p style="text-align: right;">---Wallace Stegner<br />*Crossing to Safety*</p>
+
+<br />
+
+
+> A place is not really a place without a bookstore.
+
+<p style="text-align: right;">---Gabrielle Zevin<br />*The Storied Life of A.J. Fikry*</p>
+
+<br />
+
+
+> The average American reads four books a year, and the average American finds this more than sufficient.
+
+<p style="text-align: right;">---Joe Queenan<br />*One for the Books*</p>
+
+<br />
+
+
+## Miscellany
+
+> Times New Roman is not a font choice, so much as the absence of a font choice, like the blackness of deep space is not a color.
+
+<p style="text-align: right;">---Matthew Butterick<br/>*Typography for Lawyers*</p>
+
+<br />
+
+
+> If you want a golden rule that will fit everything, this is it: Have nothing in your houses that you do not know to be useful or believe to be beautiful.
+
+
+<p style="text-align: right;">---William Morris, writer, artist, printer in his first public lecture</p>
+
+<br />
+
+
+> Like all men who have known grave dependence on alcohol, he had a certain clarity of mind that was sharpened when drunk.
+
+<p style="text-align: right;">---William Brodrick<br />*The 6th Lamentation*</p>
+
+<br />
+
+
+> But women are more complicated when it comes to their affections: They rarely love simply for what is—but for what might be, and more importantly, for how it might affect them.
+
+<p style="text-align: right;">---Candace Bushnell<br />*Trading Up*</p>
+
+<br />
+
+
+> Golden flinched, struck by the moment he found himself in: standing in a dark closet, knuckles smeared with barbecue sauce, tinkling into a bucket while delivering a lecture about bathroom manners to a dog wearing jockey shorts.
+
+<p style="text-align: right;">---Brady Udall<br />*The Lonely Polygamist*</p>
+
+<br />
+
+
+> He decided the gum’s origins didn’t matter nearly as much as what it represented: that he was not in control of his life, that at any given moment of the day he had no idea what was happening to him. He was a man with a crush on a prostitute, a condom in his wallet, and gum in his pubic hair—what could it all mean?
+
+<p style="text-align: right;">---Brady Udall<br />*The Lonely Polygamist*</p>
+
+<br />
+
+
+> Fresh’ means irresistibly stylish, oft-modified by ‘funky,’ ‘crazy,’ or ‘stoopid,’ predominantly used to convey the fly-ness of things other than women, including oneself or one’s rap, which two concepts, rappers, like schizophrenics, can’t always keep separate in their heads
+
+<p style="text-align: right;">---David Foster Wallace &amp; Mark Costello<br />*Signifying Rappers*</p>
+
+<br />
+
+
+> These ‘nodes of associations’ we call ‘pavlovs’—a unit of measure of everything we feel or think while hearing music we’ve heard before. Pavlovs can be formed in as many different ways as we can come to love anything. Fucking to an album makes you love that album forevermore (unless of course the woman you were with later breaks your heart into many small pieces, in which case you’ll come to pavlov—yes it’s also a verb—the album with pain and hate it for all time).
+
+<p style="text-align: right;">---David Foster Wallace &amp; Mark Costello<br />*Signifying Rappers*</p>
+
+<br />
+
+
+
+
+
+
+
+

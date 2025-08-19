@@ -12,6 +12,224 @@
 <generator>quarto-1.7.32</generator>
 <lastBuildDate>Mon, 18 Aug 2025 05:00:00 GMT</lastBuildDate>
 <item>
+  <title>Some Quotations I Like</title>
+  <dc:creator>Andy </dc:creator>
+  <link>https://datadreaming.org/posts/2025-08-19-some-quotations/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="statistics-computing-and-data-science" class="level2">
+<h2 class="anchored" data-anchor-id="statistics-computing-and-data-science">Statistics, Computing, and Data Science</h2>
+<blockquote class="blockquote">
+<p>Touch data: Compute-more, Calcu-less.</p>
+</blockquote>
+<p><br></p>
+<blockquote class="blockquote">
+<p>The purpose of computing is insight, not numbers</p>
+</blockquote>
+<p style="text-align: right;">
+—Richard Hamming<br><em>Numerical Methods for Scientists and Engineers</em>
+</p>
+<p><br></p>
+<blockquote class="blockquote">
+<p>We live in an age of exponential growth in knowledge, and it is increasingly futile to teach only polished theorems and proofs. We must abandon the guided tour through the art gallery of mathematics, and instead teach how to create the mathematics we need. In my opinion, there is no long-term practical alternative.</p>
+</blockquote>
+<p style="text-align: right;">
+—Richard Hamming<br><em>Calculus and Discrete Mathematics</em>
+</p>
+<p><br></p>
+<blockquote class="blockquote">
+<p>In both cases the computer used as a tool effectively leads to a solution, but in neither does the computational representation make the mathematics more perspicuous. …The goal is to use computational thinking to forge ideas that are at least as ‘explicative’ as the Euclid-like constructions (and hopefully more so) but more accessible and more powerful.</p>
+</blockquote>
+<p style="text-align: right;">
+—Seymour Papert<br><em>An Exploration in the Space of Mathematics Educations</em>
+</p>
+<p><br></p>
+<blockquote class="blockquote">
+<p>Experience trumps statistics.</p>
+</blockquote>
+<p style="text-align: right;">
+—Yo-Yo Ma<br>on the podcast <a href="https://stickynotespodcast.libsyn.com/episode-31-yo-yo-ma"><em>Sticky Notes: The Classical Music Podcast</em></a>
+</p>
+<p><br></p>
+<blockquote class="blockquote">
+<p>Statistics does not require randomness. The three essential elements of statistics are measurement, comparison, and variation. Randomness is one way to supply variation, and it’s one way to model variation, but it’s not necessary. Nor is it necessary to have “true” randomness (of the dice-throwing or urn-sampling variety) in order to have a useful probability model…To answer your question about nonrepresentative samples, there I think it’s best to adjust for known and modeled differences between sample and population. Here the idea of random sampling is a useful start and a useful comparison point…One approach is to forget the t tests, F tests, etc. and instead frame problems as quantitative comparisons, predictions, and causal inferences (which are a form of prediction of potential outcomes). You get the conf intervals, s.e.’s, etc from a random sampling model that you recognize is an approximation.</p>
+</blockquote>
+<p style="text-align: right;">
+—Andrew Gelman<br><em>What’s the most important thing in statistics that’s not in the textbooks?</em>
+</p>
+<p><br></p>
+</section>
+<section id="education" class="level2">
+<h2 class="anchored" data-anchor-id="education">Education</h2>
+<blockquote class="blockquote">
+<p>“Memory is the residue of thought.”</p>
+</blockquote>
+<p style="text-align: right;">
+—Daniel T. Willingham <br> <em>Why Students Don’t Like School: A Cognitive Scientist Answers Questions About How the Mind Works and What It Means for the Classroom</em>
+</p>
+<p><br></p>
+<blockquote class="blockquote">
+<p>Students taught to view their intelligence as a “muscle” that can grow with hard work and perseverance (as compared to a “fixed trait”, such as eye-color) experienced academic boosts of ½ a letter grade, with the largest effects often seen for low-performing students, students of color, or females in STEM-related courses.</p>
+</blockquote>
+<p style="text-align: right;">
+—United States Office of Science and Technology Policy
+</p>
+<p><br></p>
+<blockquote class="blockquote">
+<p>Make what you keep special rather than focusing on what you are getting rid of.</p>
+</blockquote>
+<p style="text-align: right;">
+—Kris Gorman; Center for Educational Innovation, on curating course content
+</p>
+<p><br></p>
+<blockquote class="blockquote">
+<p>He was the indisputable champion of the Socratic method…He asked questions, digging deeper and deeper with each layer. ‘We are archeologists of ideas,’ he once said. There is always a deeper level, with more interesting artifacts. We must continue to dig until we are satisfied with what we have found. Then we must dig more, because we should never be satisfied.</p>
+</blockquote>
+<p style="text-align: right;">
+—Alan Dershowitz<br><em>The Advocate’s Devil</em>
+</p>
+<p><br></p>
+<blockquote class="blockquote">
+<p>Train people well enough so they can leave. Treat them well enough so they don’t want to.</p>
+</blockquote>
+<p style="text-align: right;">
+—Richard Branson
+</p>
+<p><br></p>
+<blockquote class="blockquote">
+<p>CFO: What happens if we invest in developing our people and then they leave us? CEO: What happens if we don’t, and they stay?”</p>
+</blockquote>
+<p style="text-align: right;">
+—Trish Bertuzzi<br><em>The Sales Development Playbook: Build Repeatable Pipeline and Accelerate Growth with Inside Sales</em>
+</p>
+<p><br></p>
+<blockquote class="blockquote">
+<p>If I had to design a mechanism for the express purpose of destroying a child’s natural curiosity and love of pattern-making, I couldn’t possibly do as good a job as is currently being done — I simply wouldn’t have the imagination to come up with the kind of senseless, soul-crushing ideas that constitute contemporary mathematics education.</p>
+</blockquote>
+<p style="text-align: right;">
+—Paul Lockhart<br><em>A Mathematician’s Lament</em>
+</p>
+<p><br></p>
+<blockquote class="blockquote">
+<p>We are over-invested, not under-invested, in higher education. Many college graduates are taking low-skilled and low-paying jobs. The relationship between state government spending on higher education and economic growth is negative, not positive. Students are studying and learning little. Schools, including Princeton, are spending vast amounts becoming mini-luxury resorts, with fancy housing, spectacular recreational facilities and the like. At the minimum, these commercial activities should be taxed.</p>
+</blockquote>
+<p style="text-align: right;">
+—Richard Vedder<br><a href="https://www.mindingthecampus.org/2013/09/08/should_colleges_and_universiti/"><em>Should Colleges and Universities Be Taxed?</em></a>
+</p>
+<p><br></p>
+<blockquote class="blockquote">
+<p>In the long term, I believe we as social scientists need to move beyond the paradigm in which a single study can establish a definitive result. In addition to the procedural innovations suggested in the papers at hand, I think we have to more seriously consider the integration of new studies with the existing literature, going beyond the simple (and wrong) dichotomy in which statistically significant findings are considered as true and nonsignificant results are taken to be zero. But registration of studies seems like a useful step in any case.</p>
+</blockquote>
+<p style="text-align: right;">
+—Andrew Gelman<br><em>Preregistration of Studies and Mock Reports</em>
+</p>
+<p><br></p>
+</section>
+<section id="reading" class="level2">
+<h2 class="anchored" data-anchor-id="reading">Reading</h2>
+<blockquote class="blockquote">
+<p>I absolutely demand of you and everyone I know that they be widely read in every damn field there is; in every religion and every art form and <em>don’t</em> tell me you haven’t got time! There’s plenty of time. You need all of these cross-references. You never know when your head is going to use this fuel, this food for its purposes.</p>
+</blockquote>
+<p style="text-align: right;">
+—Ray Bradbury
+</p>
+<p><br></p>
+<blockquote class="blockquote">
+<p>In my experience, the world’s happiest man is a young professor building bookcases, and the world’s most contented couple is composed of that young professor and his wife, in love, employed, at the bottom of a depression from which it is impossible to fall further, and entering on their first year as full adults, not preparing any longer but finally into their lives.</p>
+</blockquote>
+<p style="text-align: right;">
+—Wallace Stegner<br><em>Crossing to Safety</em>
+</p>
+<p><br></p>
+<blockquote class="blockquote">
+<p>A place is not really a place without a bookstore.</p>
+</blockquote>
+<p style="text-align: right;">
+—Gabrielle Zevin<br><em>The Storied Life of A.J. Fikry</em>
+</p>
+<p><br></p>
+<blockquote class="blockquote">
+<p>The average American reads four books a year, and the average American finds this more than sufficient.</p>
+</blockquote>
+<p style="text-align: right;">
+—Joe Queenan<br><em>One for the Books</em>
+</p>
+<p><br></p>
+</section>
+<section id="miscellany" class="level2">
+<h2 class="anchored" data-anchor-id="miscellany">Miscellany</h2>
+<blockquote class="blockquote">
+<p>Times New Roman is not a font choice, so much as the absence of a font choice, like the blackness of deep space is not a color.</p>
+</blockquote>
+<p style="text-align: right;">
+—Matthew Butterick<br><em>Typography for Lawyers</em>
+</p>
+<p><br></p>
+<blockquote class="blockquote">
+<p>If you want a golden rule that will fit everything, this is it: Have nothing in your houses that you do not know to be useful or believe to be beautiful.</p>
+</blockquote>
+<p style="text-align: right;">
+—William Morris, writer, artist, printer in his first public lecture
+</p>
+<p><br></p>
+<blockquote class="blockquote">
+<p>Like all men who have known grave dependence on alcohol, he had a certain clarity of mind that was sharpened when drunk.</p>
+</blockquote>
+<p style="text-align: right;">
+—William Brodrick<br><em>The 6th Lamentation</em>
+</p>
+<p><br></p>
+<blockquote class="blockquote">
+<p>But women are more complicated when it comes to their affections: They rarely love simply for what is—but for what might be, and more importantly, for how it might affect them.</p>
+</blockquote>
+<p style="text-align: right;">
+—Candace Bushnell<br><em>Trading Up</em>
+</p>
+<p><br></p>
+<blockquote class="blockquote">
+<p>Golden flinched, struck by the moment he found himself in: standing in a dark closet, knuckles smeared with barbecue sauce, tinkling into a bucket while delivering a lecture about bathroom manners to a dog wearing jockey shorts.</p>
+</blockquote>
+<p style="text-align: right;">
+—Brady Udall<br><em>The Lonely Polygamist</em>
+</p>
+<p><br></p>
+<blockquote class="blockquote">
+<p>He decided the gum’s origins didn’t matter nearly as much as what it represented: that he was not in control of his life, that at any given moment of the day he had no idea what was happening to him. He was a man with a crush on a prostitute, a condom in his wallet, and gum in his pubic hair—what could it all mean?</p>
+</blockquote>
+<p style="text-align: right;">
+—Brady Udall<br><em>The Lonely Polygamist</em>
+</p>
+<p><br></p>
+<blockquote class="blockquote">
+<p>Fresh’ means irresistibly stylish, oft-modified by ‘funky,’ ‘crazy,’ or ‘stoopid,’ predominantly used to convey the fly-ness of things other than women, including oneself or one’s rap, which two concepts, rappers, like schizophrenics, can’t always keep separate in their heads</p>
+</blockquote>
+<p style="text-align: right;">
+—David Foster Wallace &amp; Mark Costello<br><em>Signifying Rappers</em>
+</p>
+<p><br></p>
+<blockquote class="blockquote">
+<p>These ‘nodes of associations’ we call ‘pavlovs’—a unit of measure of everything we feel or think while hearing music we’ve heard before. Pavlovs can be formed in as many different ways as we can come to love anything. Fucking to an album makes you love that album forevermore (unless of course the woman you were with later breaks your heart into many small pieces, in which case you’ll come to pavlov—yes it’s also a verb—the album with pain and hate it for all time).</p>
+</blockquote>
+<p style="text-align: right;">
+—David Foster Wallace &amp; Mark Costello<br><em>Signifying Rappers</em>
+</p>
+<p><br></p>
+
+
+</section>
+
+ ]]></description>
+  <category>Teaching</category>
+  <category>Quotations</category>
+  <guid>https://datadreaming.org/posts/2025-08-19-some-quotations/</guid>
+  <pubDate>Mon, 18 Aug 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://datadreaming.org/posts/2025-08-19-some-quotations" medium="image"/>
+</item>
+<item>
   <title>Syllabus Creation</title>
   <dc:creator>Andy </dc:creator>
   <link>https://datadreaming.org/posts/2025-08-18-syllabus/</link>
@@ -1611,949 +1829,6 @@ font-style: inherit;">;</span></span>
   <category>Writing</category>
   <guid>https://datadreaming.org/posts/2020-02-09-apa-style-table-in-rmarkdown-html-version/2020-02-09-apa-style-table-in-rmarkdown-html-version.html</guid>
   <pubDate>Sun, 09 Feb 2020 06:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>APA Tables using RMarkdown: Part 5</title>
-  <dc:creator>Andy </dc:creator>
-  <link>https://datadreaming.org/posts/2020-01-18-apa-tables-using-rmarkdown-part-5/2020-01-18-apa-tables-using-rmarkdown-part-5.html</link>
-  <description><![CDATA[ 
-
-
-
-<p>./assets/body-header.qmd</p>
-<p>This is the fifth part of a short blog series I am writing to re-create some of the sample tables found in the 7th edition <em>APA Publication Manual</em>. In this post I will attempt to show how to create a table to present the results of several fitted models. (This type of table is not among the example tables in the 7th edition <em>APA Publication Manual</em>.) To do so, I will incorporate many ideas that I covered in the <a href="https://www.datadreaming.org/post/apa-tables-using-rmarkdown/">first</a>, <a href="https://www.datadreaming.org/post/apa-tables-using-rmarkdown-part-2/">second</a>, <a href="https://www.datadreaming.org/post/apa-tables-using-rmarkdown-part-3/">third</a> and <a href="https://www.datadreaming.org/post/apa-tables-using-rmarkdown-part-4/">fourth</a> of these posts.</p>
-<section id="my-process" class="level1">
-<h1>My Process</h1>
-<p>I will again render to PDF and set up the YAML to import the <strong>caption</strong> package (LaTeX) and set up the APA caption formatting.</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb1-1"><span class="pp" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">---</span></span>
-<span id="cb1-2"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">title</span><span class="kw" style="color: #003B4F;
-background-color: null;
-font-weight: bold;
-font-style: inherit;">:</span><span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;"> </span><span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"Untitled"</span></span>
-<span id="cb1-3"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">author</span><span class="kw" style="color: #003B4F;
-background-color: null;
-font-weight: bold;
-font-style: inherit;">:</span><span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;"> </span><span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"Andrew Zieffler"</span></span>
-<span id="cb1-4"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">date</span><span class="kw" style="color: #003B4F;
-background-color: null;
-font-weight: bold;
-font-style: inherit;">:</span><span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;"> </span><span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"1/12/2020"</span></span>
-<span id="cb1-5"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">output</span><span class="kw" style="color: #003B4F;
-background-color: null;
-font-weight: bold;
-font-style: inherit;">:</span><span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;"> pdf_document</span></span>
-<span id="cb1-6"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">header-includes</span><span class="kw" style="color: #003B4F;
-background-color: null;
-font-weight: bold;
-font-style: inherit;">:</span></span>
-<span id="cb1-7"><span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">   </span><span class="kw" style="color: #003B4F;
-background-color: null;
-font-weight: bold;
-font-style: inherit;">-</span><span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;"> \usepackage{caption}</span></span>
-<span id="cb1-8"><span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">   </span><span class="kw" style="color: #003B4F;
-background-color: null;
-font-weight: bold;
-font-style: inherit;">-</span><span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;"> \captionsetup[table]{textfont={it}, labelfont={bf}, singlelinecheck=false, labelsep=newline}</span></span>
-<span id="cb1-9"><span class="pp" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">---</span></span></code></pre></div>
-</div>
-<p>In the RMarkdown body, I will load a few packages and also import a data set that I will use to fit the models.</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># Load libraries</span></span>
-<span id="cb2-2"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">library</span>(broom)</span>
-<span id="cb2-3"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">library</span>(knitr)</span>
-<span id="cb2-4"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">library</span>(kableExtra)</span>
-<span id="cb2-5"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">library</span>(tidyverse)</span>
-<span id="cb2-6"></span>
-<span id="cb2-7"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># Import data</span></span>
-<span id="cb2-8">mn <span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">=</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">read_csv</span>(<span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"https://raw.githubusercontent.com/zief0002/rustic-penguin/main/data/mn-schools.csv"</span>) <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">|&gt;</span></span>
-<span id="cb2-9">  <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">mutate</span>(<span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">public =</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">if_else</span>(sector <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">==</span> <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"Public"</span>, <span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span>, <span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">0</span>))</span>
-<span id="cb2-10"></span>
-<span id="cb2-11"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># View data</span></span>
-<span id="cb2-12"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">head</span>(mn)</span></code></pre></div>
-<div class="cell-output cell-output-stdout">
-<pre><code># A tibble: 6 × 6
-  name                               grad sector    sat tuition public
-  &lt;chr&gt;                             &lt;dbl&gt; &lt;chr&gt;   &lt;dbl&gt;   &lt;dbl&gt;  &lt;dbl&gt;
-1 Augsburg College                   65.2 Private  1030    39.3      0
-2 Bethany Lutheran College           52.6 Private  1065    30.5      0
-3 Bethel University, Saint Paul, MN  73.3 Private  1145    39.4      0
-4 Carleton College                   92.6 Private  1400    54.3      0
-5 College of Saint Benedict          81.1 Private  1185    43.2      0
-6 Concordia College at Moorhead      69.4 Private  1145    36.6      0</code></pre>
-</div>
-</div>
-<p>The data in were collected from http://www.collegeresults.org and contain 2011 institutional data for n=33 Minnesota colleges and universities. The codebook is available <a href="http://zief0002.github.io/rustic-penguin/codebooks/mn-schools.html">here</a>.</p>
-<p>We need to compute the regression results from fitting an OLS model. Here I will predict variation in graduation rates using several potential competing models.</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb4" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># Fit models</span></span>
-<span id="cb4-2">lm<span class="fl" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">.1</span> <span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">=</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">lm</span>(grad <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">~</span> <span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span> <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">+</span> public <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">+</span> sat <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">+</span> tuition, <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">data =</span> mn)</span>
-<span id="cb4-3">lm<span class="fl" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">.2</span> <span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">=</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">lm</span>(grad <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">~</span> <span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span> <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">+</span> public <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">+</span> sat <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">+</span> tuition <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">+</span> public<span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">:</span>sat, <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">data =</span> mn)</span>
-<span id="cb4-4">lm<span class="fl" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">.3</span> <span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">=</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">lm</span>(grad <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">~</span> <span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span> <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">+</span> public <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">+</span> sat <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">+</span> tuition <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">+</span> public<span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">:</span>tuition, <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">data =</span> mn)</span></code></pre></div>
-</div>
-<p>There are several packages that can be used to present the results of one or more fitted models. These include <a href="https://cran.r-project.org/web/packages/stargazer/vignettes/stargazer.pdf">stargazer</a>, <a href="https://github.com/leifeld/texreg">texreg</a>, and <a href="https://github.com/vincentarelbundock/modelsummary">modelsummary</a> among others. In this post I will focus on using the <strong>stargazer</strong> package, which I have found works well for fixed-effects models.</p>
-<p>After loading the <strong>stagazer</strong> package, the <code>stargazer()</code> function can be used to create a basic table of regression results. The <code>type=</code> argument defaults to <code>latex</code>, so if you are rendering to an HTML document, you need to change this to <code>type="html"</code>.</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb5" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># Load library</span></span>
-<span id="cb5-2"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">library</span>(stargazer)</span>
-<span id="cb5-3"></span>
-<span id="cb5-4"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># Output model results in a table</span></span>
-<span id="cb5-5"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">stargazer</span>(lm<span class="fl" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">.1</span>, lm<span class="fl" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">.2</span>, lm<span class="fl" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">.3</span>, <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">type =</span> <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"latex"</span>)</span></code></pre></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>
-% Table created by stargazer v.5.2.3 by Marek Hlavac, Social Policy Institute. E-mail: marek.hlavac at gmail.com
-% Date and time: Tue, Oct 31, 2023 - 18:00:09
-\begin{table}[!htbp] \centering 
-  \caption{} 
-  \label{} 
-\begin{tabular}{@{\extracolsep{5pt}}lccc} 
-\\[-1.8ex]\hline 
-\hline \\[-1.8ex] 
- &amp; \multicolumn{3}{c}{\textit{Dependent variable:}} \\ 
-\cline{2-4} 
-\\[-1.8ex] &amp; \multicolumn{3}{c}{grad} \\ 
-\\[-1.8ex] &amp; (1) &amp; (2) &amp; (3)\\ 
-\hline \\[-1.8ex] 
- public &amp; $-$0.647 &amp; 9.132 &amp; 8.554 \\ 
-  &amp; (4.716) &amp; (32.466) &amp; (19.945) \\ 
-  &amp; &amp; &amp; \\ 
- sat &amp; 0.104$^{***}$ &amp; 0.106$^{***}$ &amp; 0.106$^{***}$ \\ 
-  &amp; (0.016) &amp; (0.018) &amp; (0.017) \\ 
-  &amp; &amp; &amp; \\ 
- tuition &amp; 0.470$^{*}$ &amp; 0.451$^{*}$ &amp; 0.455$^{*}$ \\ 
-  &amp; (0.242) &amp; (0.253) &amp; (0.247) \\ 
-  &amp; &amp; &amp; \\ 
- public:sat &amp;  &amp; $-$0.009 &amp;  \\ 
-  &amp;  &amp; (0.031) &amp;  \\ 
-  &amp; &amp; &amp; \\ 
- public:tuition &amp;  &amp;  &amp; $-$0.487 \\ 
-  &amp;  &amp;  &amp; (1.025) \\ 
-  &amp; &amp; &amp; \\ 
- Constant &amp; $-$68.297$^{***}$ &amp; $-$70.205$^{***}$ &amp; $-$70.578$^{***}$ \\ 
-  &amp; (12.564) &amp; (14.220) &amp; (13.610) \\ 
-  &amp; &amp; &amp; \\ 
-\hline \\[-1.8ex] 
-Observations &amp; 33 &amp; 33 &amp; 33 \\ 
-R$^{2}$ &amp; 0.861 &amp; 0.861 &amp; 0.862 \\ 
-Adjusted R$^{2}$ &amp; 0.846 &amp; 0.841 &amp; 0.842 \\ 
-Residual Std. Error &amp; 6.562 (df = 29) &amp; 6.667 (df = 28) &amp; 6.651 (df = 28) \\ 
-F Statistic &amp; 59.732$^{***}$ (df = 3; 29) &amp; 43.421$^{***}$ (df = 4; 28) &amp; 43.660$^{***}$ (df = 4; 28) \\ 
-\hline 
-\hline \\[-1.8ex] 
-\textit{Note:}  &amp; \multicolumn{3}{r}{$^{*}$p$&lt;$0.1; $^{**}$p$&lt;$0.05; $^{***}$p$&lt;$0.01} \\ 
-\end{tabular} 
-\end{table} </code></pre>
-</div>
-</div>
-<p>The function outputs raw LaTeX (or HTML), so to get it to form into a table you need to include <code>results='asis'</code> in your Rmarkdown chunk.</p>
-<pre><code>```{r message=FALSE, results='asis'} 
-# Load library
-library(stargazer)
-
-# Output model results in a table
-stargazer(lm.1, lm.2, lm.3, type = "latex")
-```</code></pre>
-<p><img src="https://datadreaming.org/posts/2020-01-18-apa-tables-using-rmarkdown-part-5/stargazer-tbl.png" class="img-fluid" style="width:100.0%"></p>
-<section id="customizing-the-stargazer-output" class="level3">
-<h3 class="anchored" data-anchor-id="customizing-the-stargazer-output">Customizing the Stargazer Output</h3>
-<p>There are several arguments in the <code>stargazer()</code> function to customize the table.</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb8" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">stargazer</span>(</span>
-<span id="cb8-2">  lm<span class="fl" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">.1</span>, lm<span class="fl" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">.2</span>, lm<span class="fl" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">.3</span>,</span>
-<span id="cb8-3">  <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">type =</span> <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"latex"</span>,</span>
-<span id="cb8-4">  <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">table.placement =</span> <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"H"</span>,</span>
-<span id="cb8-5">  <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">title =</span> <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"Three Regression Models Predicting Variation in Six-Year Graduation Rates"</span>,</span>
-<span id="cb8-6">  <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">column.labels =</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">c</span>(<span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"Model A"</span>, <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"Model B"</span>, <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"Model C"</span>),</span>
-<span id="cb8-7">  <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">colnames =</span> <span class="cn" style="color: #8f5902;
-background-color: null;
-font-style: inherit;">FALSE</span>,</span>
-<span id="cb8-8">  <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">model.numbers =</span> <span class="cn" style="color: #8f5902;
-background-color: null;
-font-style: inherit;">FALSE</span>,</span>
-<span id="cb8-9">  <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">dep.var.caption =</span> <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">" "</span>,</span>
-<span id="cb8-10">  <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">dep.var.labels =</span> <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"Graduation Rate"</span>,</span>
-<span id="cb8-11">  <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">covariate.labels =</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">c</span>(<span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"Public$^a$"</span>, <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"Median SAT score"</span>, <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"Tuition"</span>, <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"Public$^a$ x Median SAT score"</span>, <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"Public$^a$ x Tuition"</span>),</span>
-<span id="cb8-12">  <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">star.cutoffs =</span> <span class="cn" style="color: #8f5902;
-background-color: null;
-font-style: inherit;">NA</span>,</span>
-<span id="cb8-13">  <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">keep.stat =</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">c</span>(<span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"rsq"</span>, <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"f"</span>),</span>
-<span id="cb8-14">  <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">notes =</span> <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"$^a$0 = Private institution and 1 = Public institution."</span>,</span>
-<span id="cb8-15">  <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">notes.align =</span> <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"l"</span></span>
-<span id="cb8-16">  )</span></code></pre></div>
-</div>
-<p><img src="https://datadreaming.org/posts/2020-01-18-apa-tables-using-rmarkdown-part-5/tbl-2.png" class="img-fluid" style="width:100.0%"></p>
-<p>This is close, but there are a few things I am not happy with. Namely,</p>
-<ul>
-<li>The table should be aligned with the caption rather than centered.</li>
-<li>The double lines produced at the top and bottom of the table.</li>
-<li>The label for the dependent variable, “Graduation Rate”, is redundant with the caption so could be omitted, as could the border produced above it.</li>
-<li>The note is separated from the <em>Note:</em> text and uses a colon rather than a period in this text. It also has the text “NA” since we set the <code>star.cutoff=</code> argument (which omits the dreaded significance stars) to <code>NA</code>.</li>
-</ul>
-<p>To fix these things we need to edit the LaTeX syntax that is produced by the <code>stargazer()</code> function. To do this, run the syntax in the console and then copy-and-paste the raw LaTeX into your RMarkdown document (outside of a code chunk). The LaTeX syntax from our table is:</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb9" style="background: #f1f3f5;"><pre class="sourceCode latex code-with-copy"><code class="sourceCode latex"><span id="cb9-1"><span class="kw" style="color: #003B4F;
-background-color: null;
-font-weight: bold;
-font-style: inherit;">\begin</span>{<span class="ex" style="color: null;
-background-color: null;
-font-style: inherit;">table</span>}[H] <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\centering</span> </span>
-<span id="cb9-2">  <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\caption</span>{Three Regression Models Predicting Variation in Six-Year Graduation Rates} </span>
-<span id="cb9-3">  <span class="kw" style="color: #003B4F;
-background-color: null;
-font-weight: bold;
-font-style: inherit;">\label</span>{} </span>
-<span id="cb9-4"><span class="kw" style="color: #003B4F;
-background-color: null;
-font-weight: bold;
-font-style: inherit;">\begin</span>{<span class="ex" style="color: null;
-background-color: null;
-font-style: inherit;">tabular</span>}{<span class="ch" style="color: #20794D;
-background-color: null;
-font-style: inherit;">@{\extracolsep{5pt}}</span>lccc} </span>
-<span id="cb9-5"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span>[-1.8ex]<span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\hline</span> </span>
-<span id="cb9-6"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\hline</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span>[-1.8ex] </span>
-<span id="cb9-7"> <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\multicolumn</span>{3}{c}{ } <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span> </span>
-<span id="cb9-8"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\cline</span>{2-4} </span>
-<span id="cb9-9"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span>[-1.8ex] <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\multicolumn</span>{3}{c}{Graduation Rate} <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span> </span>
-<span id="cb9-10"> <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> Model A <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> Model B <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> Model C <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span> </span>
-<span id="cb9-11"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\hline</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span>[-1.8ex] </span>
-<span id="cb9-12"> Public<span class="ss" style="color: #20794D;
-background-color: null;
-font-style: inherit;">$^a$</span> <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> <span class="ss" style="color: #20794D;
-background-color: null;
-font-style: inherit;">$-$</span>0.647 <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> 9.132 <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> 8.554 <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span> </span>
-<span id="cb9-13">  <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> (4.716) <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> (32.466) <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> (19.945) <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span> </span>
-<span id="cb9-14">  <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span> </span>
-<span id="cb9-15"> Median SAT score <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> 0.104 <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> 0.106 <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> 0.106 <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span> </span>
-<span id="cb9-16">  <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> (0.016) <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> (0.018) <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> (0.017) <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span> </span>
-<span id="cb9-17">  <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span> </span>
-<span id="cb9-18"> Tuition <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> 0.470 <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> 0.451 <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> 0.455 <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span> </span>
-<span id="cb9-19">  <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> (0.242) <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> (0.253) <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> (0.247) <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span> </span>
-<span id="cb9-20">  <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span> </span>
-<span id="cb9-21"> Public<span class="ss" style="color: #20794D;
-background-color: null;
-font-style: inherit;">$^a$</span> x Median SAT score <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span>  <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> <span class="ss" style="color: #20794D;
-background-color: null;
-font-style: inherit;">$-$</span>0.009 <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span>  <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span> </span>
-<span id="cb9-22">  <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span>  <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> (0.031) <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span>  <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span> </span>
-<span id="cb9-23">  <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span> </span>
-<span id="cb9-24"> Public<span class="ss" style="color: #20794D;
-background-color: null;
-font-style: inherit;">$^a$</span> x Tuition <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span>  <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span>  <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> <span class="ss" style="color: #20794D;
-background-color: null;
-font-style: inherit;">$-$</span>0.487 <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span> </span>
-<span id="cb9-25">  <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span>  <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span>  <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> (1.025) <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span> </span>
-<span id="cb9-26">  <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span> </span>
-<span id="cb9-27"> Constant <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> <span class="ss" style="color: #20794D;
-background-color: null;
-font-style: inherit;">$-$</span>68.297 <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> <span class="ss" style="color: #20794D;
-background-color: null;
-font-style: inherit;">$-$</span>70.205 <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> <span class="ss" style="color: #20794D;
-background-color: null;
-font-style: inherit;">$-$</span>70.578 <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span> </span>
-<span id="cb9-28">  <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> (12.564) <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> (14.220) <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> (13.610) <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span> </span>
-<span id="cb9-29">  <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span> </span>
-<span id="cb9-30"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\hline</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span>[-1.8ex] </span>
-<span id="cb9-31">R<span class="ss" style="color: #20794D;
-background-color: null;
-font-style: inherit;">$^{2}$</span> <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> 0.861 <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> 0.861 <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> 0.862 <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span> </span>
-<span id="cb9-32">F Statistic <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> 59.732 (df = 3; 29) <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> 43.421 (df = 4; 28) <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> 43.660 (df = 4; 28) <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span> </span>
-<span id="cb9-33"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\hline</span> </span>
-<span id="cb9-34"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\hline</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span>[-1.8ex] </span>
-<span id="cb9-35"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\textit</span>{Note:}  <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\multicolumn</span>{3}{l}{NA} <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span> </span>
-<span id="cb9-36"> <span class="op" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\multicolumn</span>{3}{l}{<span class="ss" style="color: #20794D;
-background-color: null;
-font-style: inherit;">$^a$</span>0 = Private institution and 1 = Public institution.} <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span> </span>
-<span id="cb9-37"><span class="kw" style="color: #003B4F;
-background-color: null;
-font-weight: bold;
-font-style: inherit;">\end</span>{<span class="ex" style="color: null;
-background-color: null;
-font-style: inherit;">tabular</span>} </span>
-<span id="cb9-38"><span class="kw" style="color: #003B4F;
-background-color: null;
-font-weight: bold;
-font-style: inherit;">\end</span>{<span class="ex" style="color: null;
-background-color: null;
-font-style: inherit;">table</span>}</span></code></pre></div>
-</div>
-<p>The <code>\centering</code> synatax in the first line is what is causing the table itself to be centered. Delete this. The double lines at the top and bottom of the table are produced by the two consecutive <code>hline</code> commands. Remove one at the beginning and end of the table. In a similar way the syntax that corresponds to the “Graduation Rate” label and the <code>\cline{2-4}</code> preceeding it can be omitted.</p>
-<p>Changing the table note is a little more complicated. The primary syntax for this is the following:</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb10" style="background: #f1f3f5;"><pre class="sourceCode latex code-with-copy"><code class="sourceCode latex"><span id="cb10-1"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\textit</span>{Note:}  &amp; <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\multicolumn</span>{3}{l}{NA} <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span> </span>
-<span id="cb10-2"> &amp; <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\multicolumn</span>{3}{l}{<span class="ss" style="color: #20794D;
-background-color: null;
-font-style: inherit;">$^a$</span>0 = Private institution and 1 = Public institution.} <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span> </span></code></pre></div>
-</div>
-<p>In the syntax that creates the LaTeX table, the ampersand (<code>&amp;</code>) indicates a new column and the double slash (<code>\\</code>) indicates the end of the row. So the italicized text <em>Note:</em> is put in the first cell of the row and then the text “NA” is placed in the next cell of the same row. The <code>multicolumn{3}{l}{}</code> actually combines the last 3 columns into a single cell and aligns the text (which is placed in the third set of curly braces) to the left. To make this all line up better, we are going to replace the note syntax with the following:</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb11" style="background: #f1f3f5;"><pre class="sourceCode latex code-with-copy"><code class="sourceCode latex"><span id="cb11-1"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\multicolumn</span>{4}{l}{<span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\textit</span>{Note.} <span class="ss" style="color: #20794D;
-background-color: null;
-font-style: inherit;">$^a$</span>0 = Private institution and 1 = Public institution.} <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">\\</span> </span></code></pre></div>
-</div>
-<p>This will combine all four columns of the table into a single cell and will align the text to the left of this cell. The resulting table will fix our issues. This is the syntax that is remaining:</p>
-<pre><code>\begin{table}[H] 
-  \caption{Three Regression Models Predicting Variation in Six-Year Graduation Rates} 
-  \label{} 
-\begin{tabular}{@{\extracolsep{5pt}}lccc} 
-\\[-1.8ex]
-\hline \\[-1.8ex] 
- &amp; \multicolumn{3}{c}{ } \\ 
- &amp; Model A &amp; Model B &amp; Model C \\ 
-\hline \\[-1.8ex] 
- Public$^a$ &amp; $-$0.647 &amp; 9.132 &amp; 8.554 \\ 
-  &amp; (4.716) &amp; (32.466) &amp; (19.945) \\ 
-  &amp; &amp; &amp; \\ 
- Median SAT score &amp; 0.104 &amp; 0.106 &amp; 0.106 \\ 
-  &amp; (0.016) &amp; (0.018) &amp; (0.017) \\ 
-  &amp; &amp; &amp; \\ 
- Tuition &amp; 0.470 &amp; 0.451 &amp; 0.455 \\ 
-  &amp; (0.242) &amp; (0.253) &amp; (0.247) \\ 
-  &amp; &amp; &amp; \\ 
- Public$^a$ x Median SAT score &amp;  &amp; $-$0.009 &amp;  \\ 
-  &amp;  &amp; (0.031) &amp;  \\ 
-  &amp; &amp; &amp; \\ 
- Public$^a$ x Tuition &amp;  &amp;  &amp; $-$0.487 \\ 
-  &amp;  &amp;  &amp; (1.025) \\ 
-  &amp; &amp; &amp; \\ 
- Constant &amp; $-$68.297 &amp; $-$70.205 &amp; $-$70.578 \\ 
-  &amp; (12.564) &amp; (14.220) &amp; (13.610) \\ 
-  &amp; &amp; &amp; \\ 
-\hline \\[-1.8ex] 
-R$^{2}$ &amp; 0.861 &amp; 0.861 &amp; 0.862 \\ 
-F Statistic &amp; 59.732 (df = 3; 29) &amp; 43.421 (df = 4; 28) &amp; 43.660 (df = 4; 28) \\ 
-\hline \\[-1.8ex] 
-\multicolumn{4}{l}{\textit{Note.} $^a$0 = Private institution and 1 = Public institution.} \\ 
-\end{tabular} 
-\end{table}</code></pre>
-<p>The resulting table looks like the following.</p>
-<p><img src="https://datadreaming.org/post/2020-01-18-apa-tables-using-rmarkdown-part-5_files/Screen Shot 2020-01-18 at 11.30.32 AM.png" class="img-fluid" style="width:100.0%"></p>
-</section>
-<section id="adding-additional-model-level-statistics-into-the-table" class="level3">
-<h3 class="anchored" data-anchor-id="adding-additional-model-level-statistics-into-the-table">Adding Additional Model-Level Statistics into the Table</h3>
-<p>You may also wish to add other model-level summaries into the table. For example, below I will compute and add the corrected AIC into the table. To do this, use the <code>add.lines=</code> argument in the <code>stargazer()</code> function. This argument takes a list that gives the contents of each cell in the added row. In our example this would be a list including the text to produce in the first cell and then a corrected AIC value for each respective model in the remaining three cells. I also omit the <img src="https://latex.codecogs.com/png.latex?F">-statistic in the <code>keep.stat=</code> argument.</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb13" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb13-1"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># Load library</span></span>
-<span id="cb13-2"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">library</span>(AICcmodavg)</span>
-<span id="cb13-3"></span>
-<span id="cb13-4"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;"># Create table</span></span>
-<span id="cb13-5"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">stargazer</span>(</span>
-<span id="cb13-6">  lm<span class="fl" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">.1</span>, lm<span class="fl" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">.2</span>, lm<span class="fl" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">.3</span>,</span>
-<span id="cb13-7">  <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">type =</span> <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"latex"</span>,</span>
-<span id="cb13-8">  <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">table.placement =</span> <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"H"</span>,</span>
-<span id="cb13-9">  <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">title =</span> <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"Three Regression Models Predicting Variation in Six-Year Graduation Rates"</span>,</span>
-<span id="cb13-10">  <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">column.labels =</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">c</span>(<span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"Model A"</span>, <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"Model B"</span>, <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"Model C"</span>),</span>
-<span id="cb13-11">  <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">colnames =</span> <span class="cn" style="color: #8f5902;
-background-color: null;
-font-style: inherit;">FALSE</span>,</span>
-<span id="cb13-12">  <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">model.numbers =</span> <span class="cn" style="color: #8f5902;
-background-color: null;
-font-style: inherit;">FALSE</span>,</span>
-<span id="cb13-13">  <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">dep.var.caption =</span> <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">" "</span>,</span>
-<span id="cb13-14">  <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">dep.var.labels =</span> <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"Graduation Rate"</span>,</span>
-<span id="cb13-15">  <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">covariate.labels =</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">c</span>(<span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"Public$^a$"</span>, <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"Median SAT score"</span>, <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"Tuition"</span>, <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"Public$^a$ x Median SAT score"</span>, <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"Public$^a$ x Tuition"</span>),</span>
-<span id="cb13-16">  <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">star.cutoffs =</span> <span class="cn" style="color: #8f5902;
-background-color: null;
-font-style: inherit;">NA</span>,</span>
-<span id="cb13-17">  <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">keep.stat =</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">c</span>(<span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"rsq"</span>),</span>
-<span id="cb13-18">  <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">notes =</span> <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"$^a$0 = Private institution and 1 = Public institution."</span>,</span>
-<span id="cb13-19">  <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">notes.align =</span> <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"l"</span>,</span>
-<span id="cb13-20">  <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">add.lines =</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">list</span>(<span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">c</span>(<span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"Corrected AIC"</span>, <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">round</span>(<span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">AICc</span>(lm<span class="fl" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">.1</span>), <span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span>), <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">round</span>(<span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">AICc</span>(lm<span class="fl" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">.2</span>), <span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span>), <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">round</span>(<span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">AICc</span>(lm<span class="fl" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">.3</span>), <span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span>)))</span>
-<span id="cb13-21">  )</span></code></pre></div>
-</div>
-<p>After editing the LaTeX syntax to make the same changes as before, we get the following table:</p>
-<p><img src="https://datadreaming.org/posts/2020-01-18-apa-tables-using-rmarkdown-part-5/tbl-3.png" class="img-fluid" style="width:100.0%"></p>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>Markdown</category>
-  <category>R</category>
-  <category>Writing</category>
-  <guid>https://datadreaming.org/posts/2020-01-18-apa-tables-using-rmarkdown-part-5/2020-01-18-apa-tables-using-rmarkdown-part-5.html</guid>
-  <pubDate>Sat, 18 Jan 2020 06:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
