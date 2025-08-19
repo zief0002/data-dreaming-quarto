@@ -1,5 +1,6 @@
 ---
 title: ""
+editor: source
 ---
 
 
@@ -16,6 +17,21 @@ title: ""
 
 <br />
 
+
+### Open-Education Resources
+
+:::{.hanging-indent}
+Zieffler, A., &amp; Legacy, C. (2023). *An Introduction to Data Analysis.* <https://zief0002.github.io/epsy-5261/>
+
+Rodriguez, M., &amp; Zieffler, A. (2021). *Matrix algebra for educational scientists.* <https://zief0002.github.io/matrix-algebra/>
+
+Zieffler, A., &amp; Catalysts for Change. (2013, 2015, 2017, 2018, 2021, 2025). *Statistical Thinking:
+A Simulation Approach to Modeling Uncertainty.* <https://github.com/zief0002/statistical-thinking/>
+
+Zieffler, A. (2020). *Statistical modeling and computation for educational scientists* <https://zief0002.github.io/modeling/>
+:::
+
+
 ### Selected Publications
 
 
@@ -27,12 +43,46 @@ title: ""
 <br />
 
 
+
+#### **2025**
+
+:::{.hanging-indent}
+Legacy, C., Zieffler, A., Rao, V. N. V., &amp; delMas, R. (2025). Vampires and star-crossed lovers: Secondary teachers' reasoning about the connections between multivariate data and visualization. *Statistics
+Education Research Journal, 24*(1). <https://doi.org/10.52041/serj.v24i1.613>
+
+Peczuh, M. C.$^\dagger$, Maruyama, G., Weisen, S.$^\dagger$, Do, T.$^\dagger$, &amp; Zieffler, A. (2025). Where are the men?: Investigating intersectional gender differences in postsecondary outcomes. *Analyses of Social Issues and Public
+Policy, 25*(1), 1--26. <https://doi.org/10.1111/asap.12451>
+
+Sabbag, A., Zieffler, A., &amp; Ng, C. (2025). Can we distinguish statistical literacy and statistical reasoning?
+*Statistics Education Research Journal, 24*(1). <https://doi.org/10.52041/serj.v24i1.587>
+:::
+
+
+---
+
+
+#### **2024**
+
+:::{.hanging-indent}
+Legacy, C., Le, L., Zieffler, A., Fry, E., &amp; Vivas Corrales, P.$^\dagger$ (2024). The teaching of introductory
+statistics: Results of a national survey. *Journal of Statistics and Data Science Education, 32*(3), 232--240.
+<https://doi.org/10.1080/26939169.2024.2333732>
+
+Zieffler, A. (2024). Zhuzhing up your syllabus. *Statistics Teaching and Learning Corner.* <https://stattlc.
+com/2024/09/06/zhuzhing-up-your-syllabus/>
+:::
+
+
+---
+
+
 #### **2023**
 
 :::{.hanging-indent}
 Legacy, C.$^\dagger$, Zieffler, A., Baumer, B. S., Barr, V., &amp; Horton, N. J. (2023). Facilitating team-based data science: Lessons learned from the DSC-WAV project. *Foundations of Data Science, 5*(2), 244--265. <https://doi.org/10.3934/fods.2022003>
 
-Rao, V. N. V.$^\dagger$, Legacy, C., Zieffler, A., &amp; delMas, R. (2023). A sequence of activities to build students' reasoning about data and visualization. *Teaching Statistics, 45*(S1), S80--S92. <http://doi.org/10.1111/test.12341>
+Rao, V. N. V.$^\dagger$, Legacy, C., Zieffler, A., &amp; delMas, R. (2023). Designing a sequence of activities to
+build students' reasoning about data and visualization. *Teaching Statistics, 45*(S1), S80--S92. <http://doi.org/10.1111/test.12341>
 :::
 
 

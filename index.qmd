@@ -17,7 +17,7 @@ editor: source
 
 ### About Me
 
-I am a Professor of Teaching and researcher in the [Quantitative Methods in Education](http://www.cehd.umn.edu/EdPsych/programs/QME/) program within the Department of Educational Psychology at the University of Minnesota. I currently teach undergraduate and graduate-level courses in statistics and train and supervise graduate students in statistics education. In a previous life I taught mathematics and A.P. Statistics at [ROCORI High School](https://www.rocori.k12.mn.us/) in Cold Spring, MN.
+I am a Distinguished University Teaching Professor and researcher in the [Quantitative Methods in Education](http://www.cehd.umn.edu/EdPsych/programs/QME/) program within the Department of Educational Psychology at the University of Minnesota. I currently teach undergraduate and graduate-level courses in statistics and train and supervise graduate students in statistics education. In a previous life I taught mathematics and A.P. Statistics at [ROCORI High School](https://www.rocori.k12.mn.us/) in Cold Spring, MN.
 
 My scholarship addresses statistics education writ large, and has recently been focused on teacher education and also on how data science is transforming the statistics curriculum. You can find out more about some of this work at the LaSER website. I also work on curriculum design projects.
 
