@@ -1,0 +1,15 @@
+{
+  "hash": "bfd5b1bf57e9b5ddd47cd42e3ccfbee6",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Data Science Landscape\nauthor: Andy\ndate: '2025-08-20'\nslug: []\ncategories:\n  - Data Science\nsubtitle: ''\ndescription: ''\nimage: ''\nshowtoc: false\n---\n\nI have had this cartoon of the data science landscape sitting on my computer for several years. I don't know if still is apt, but when I saw it, I thought it was a preety good depiction of the roles and some of the skills/methods that were useful for different aspects of data science.\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/data-science-landscape.jpg)\n:::\n:::\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
