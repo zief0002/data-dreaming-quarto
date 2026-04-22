@@ -24,23 +24,28 @@ In my spare time, I really enjoy cross-stitching. Here are some of the things I 
 
 ::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));grid-gap: 1em;"}
 
-![](img/cross-stitch-noahs-ark.jpg){group="my-gallery"}
+![2026: Ernest Hemingway for Angela.](img/cross-stitch-ernest-hemingway.png){group="my-gallery"}
 
-![](img/cross-stitch-haunted-house.jpg){group="my-gallery"}
 
-![](img/cross-stitch-tswift.jpg){group="my-gallery"}
+![2025: Ruth Bader Ginsburg for Judge Laura.](img/cross-stitch-rbg.png){group="my-gallery"}
 
-![](img/cross-stitch-evidence.jpg){group="my-gallery"}
+![2025: Precious Moments Noah's Ark for my sister](img/cross-stitch-noahs-ark.jpg){group="my-gallery"}
 
-![](img/cross-stitch-mcmc.jpg){group="my-gallery"}
+![2024](img/cross-stitch-haunted-house.jpg){group="my-gallery"}
 
-![](img/cross-stitch-fuckit.jpg){group="my-gallery"}
+![2023](img/cross-stitch-tswift.jpg){group="my-gallery"}
 
-![](img/cross-stitch-duck.jpg){group="my-gallery"}
+![2022](img/cross-stitch-evidence.jpg){group="my-gallery"}
 
-![](img/cross-stitch-bb8.jpg){group="my-gallery"}
+![2021: Statistical estimation meets pop culture](img/cross-stitch-mcmc.jpg){group="my-gallery"}
 
-![](img/cross-stitch-he-man.jpg){group="my-gallery"}
+![2022](img/cross-stitch-fuckit.jpg){group="my-gallery"}
+
+![2021](img/cross-stitch-duck.jpg){group="my-gallery"}
+
+![2021: BB-8](img/cross-stitch-bb8.jpg){group="my-gallery"}
+
+![2022: He-Man and Skeletor](img/cross-stitch-he-man.jpg){group="my-gallery"}
 
 
 :::
